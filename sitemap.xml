@@ -3,40 +3,40 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://example.org/page/about/</loc>
+    <loc>https://mjs2600.github.io/page/about/</loc>
     <lastmod>2017-06-19T12:34:19-04:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/post/hello-world/</loc>
+    <loc>https://mjs2600.github.io/post/hello-world/</loc>
     <lastmod>2017-06-16T10:04:29-04:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/categories/</loc>
+    <loc>https://mjs2600.github.io/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/</loc>
+    <loc>https://mjs2600.github.io/</loc>
     <lastmod>2017-06-19T12:34:19-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/page/</loc>
+    <loc>https://mjs2600.github.io/page/</loc>
     <lastmod>2017-06-19T12:34:19-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/post/</loc>
+    <loc>https://mjs2600.github.io/post/</loc>
     <lastmod>2017-06-16T10:04:29-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/tags/</loc>
+    <loc>https://mjs2600.github.io/tags/</loc>
     <priority>0</priority>
   </url>
   
