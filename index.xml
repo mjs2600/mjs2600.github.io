@@ -8,10 +8,19 @@
     <language>en-us</language>
     <managingEditor>mjs2600@gmail.com (Michael Simpson)</managingEditor>
     <webMaster>mjs2600@gmail.com (Michael Simpson)</webMaster>
-    <lastBuildDate>Mon, 19 Jun 2017 12:34:19 -0400</lastBuildDate>
+    <lastBuildDate>Sat, 24 Jun 2017 10:04:29 -0400</lastBuildDate>
     
 	<atom:link href="https://mjs2600.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Hello, World!</title>
+      <link>https://mjs2600.github.io/post/hello-world/</link>
+      <pubDate>Sat, 24 Jun 2017 10:04:29 -0400</pubDate>
+      <author>mjs2600@gmail.com (Michael Simpson)</author>
+      <guid>https://mjs2600.github.io/post/hello-world/</guid>
+      <description>In this blog I plan to share interesting things that I find. I’m also hoping to post some of my half finished ideas and experiements. I think more clearly when I write and I’d like to take advantage of that to work through the things bouncing around in my head.</description>
+    </item>
     
     <item>
       <title>About Me</title>
@@ -20,15 +29,6 @@
       <author>mjs2600@gmail.com (Michael Simpson)</author>
       <guid>https://mjs2600.github.io/page/about/</guid>
       <description>I live in Middlebury, Vermont with my wife, Mary Jane, and two small children. I am a data scientist at Very and a graduate student in Georgia Tech&amp;rsquo;s OMSCS program.</description>
-    </item>
-    
-    <item>
-      <title>Hello, World!</title>
-      <link>https://mjs2600.github.io/post/hello-world/</link>
-      <pubDate>Fri, 16 Jun 2017 10:04:29 -0400</pubDate>
-      <author>mjs2600@gmail.com (Michael Simpson)</author>
-      <guid>https://mjs2600.github.io/post/hello-world/</guid>
-      <description>In this blog I plan to share interesting things that I find. I’m also hoping to post some of my half finished ideas and experiements. I think more clearly when I write and I’d like to take advantage of that to work through the things bouncing around in my head.</description>
     </item>
     
   </channel>
