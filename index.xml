@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Naive Bayesian</title>
+    <link>http://example.org/</link>
+    <description>Recent content on Naive Bayesian</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <managingEditor>mjs2600@gmail.com (Michael Simpson)</managingEditor>
+    <webMaster>mjs2600@gmail.com (Michael Simpson)</webMaster>
+    <lastBuildDate>Mon, 19 Jun 2017 12:34:19 -0400</lastBuildDate>
+    
+	<atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About Me</title>
+      <link>http://example.org/page/about/</link>
+      <pubDate>Mon, 19 Jun 2017 12:34:19 -0400</pubDate>
+      <author>mjs2600@gmail.com (Michael Simpson)</author>
+      <guid>http://example.org/page/about/</guid>
+      <description>I live in Middlebury, Vermont with my wife, Mary Jane, and two small children. I am a data scientist at Very and a graduate student in Georgia Tech&amp;rsquo;s OMSCS program.</description>
+    </item>
+    
+    <item>
+      <title>Hello, World!</title>
+      <link>http://example.org/post/hello-world/</link>
+      <pubDate>Fri, 16 Jun 2017 10:04:29 -0400</pubDate>
+      <author>mjs2600@gmail.com (Michael Simpson)</author>
+      <guid>http://example.org/post/hello-world/</guid>
+      <description>In this blog I plan to share interesting things that I find. I’m also hoping to post some of my half finished ideas and experiements. I think more clearly when I write and I’d like to take advantage of that to work through the things bouncing around in my head.</description>
+    </item>
+    
+  </channel>
+</rss>
