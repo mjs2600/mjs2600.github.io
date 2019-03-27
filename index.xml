@@ -8,10 +8,19 @@
     <language>en-us</language>
     <managingEditor>mjs2600@gmail.com (Michael Simpson)</managingEditor>
     <webMaster>mjs2600@gmail.com (Michael Simpson)</webMaster>
-    <lastBuildDate>Sat, 24 Jun 2017 10:04:29 -0400</lastBuildDate>
+    <lastBuildDate>Wed, 27 Mar 2019 12:34:19 -0400</lastBuildDate>
     
 	<atom:link href="https://mjs2600.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>About Me</title>
+      <link>https://mjs2600.github.io/page/about/</link>
+      <pubDate>Wed, 27 Mar 2019 12:34:19 -0400</pubDate>
+      <author>mjs2600@gmail.com (Michael Simpson)</author>
+      <guid>https://mjs2600.github.io/page/about/</guid>
+      <description>{ &#34;@context&#34;: &#34;http://schema.org&#34;, &#34;@type&#34;: &#34;Person&#34;, &#34;name&#34;: &#34;Michael Simpson&#34;, &#34;address&#34;: { &#34;@type&#34;: &#34;PostalAddress&#34;, &#34;addressCountry&#34;: &#34;USA&#34;, &#34;addressRegion&#34;: &#34;VT&#34;, &#34;addressLocality&#34;: &#34;Middlebury&#34; }, &#34;image&#34;: &#34;https://mjs2600.github.io/images/profile.png&#34;, &#34;spouse&#34;: { &#34;@type&#34;: &#34;Person&#34;, &#34;name&#34;: &#34;Mary Jane Simpson&#34;, &#34;url&#34;: &#34;http://www.middlebury.edu/academics/chem/faculty/node/539926&#34; }, &#34;jobTitle&#34;: &#34;Chief Data Scientist&#34;, &#34;alumniOf&#34;: { &#34;@type&#34;: &#34;EducationalOrganization&#34;, &#34;name&#34;: &#34;Georgia Institute of Technology&#34;, &#34;alternateName&#34;: &#34;Georgia Tech&#34;, &#34;url&#34;: &#34;https://www.gatech.edu/&#34; }, &#34;gender&#34;: &#34;http://schema.org/Male&#34;, &#34;url&#34;: &#34;http://mjs2600.github.io/&#34;, &#34;sameAs&#34; : [ &#34;https://twitter.com/mjs2600&#34;, &#34;https://mastodon.technology/web/accounts/78564&#34; ] }  I live in Middlebury, Vermont with my wife, Mary Jane, and two small children.</description>
+    </item>
     
     <item>
       <title>Hello, World!</title>
@@ -20,15 +29,6 @@
       <author>mjs2600@gmail.com (Michael Simpson)</author>
       <guid>https://mjs2600.github.io/post/hello-world/</guid>
       <description>In this blog I plan to share interesting things that I find. I’m also hoping to post some of my half finished ideas and experiements. I think more clearly when I write and I’d like to take advantage of that to work through the things bouncing around in my head.</description>
-    </item>
-    
-    <item>
-      <title>About Me</title>
-      <link>https://mjs2600.github.io/page/about/</link>
-      <pubDate>Mon, 19 Jun 2017 12:34:19 -0400</pubDate>
-      <author>mjs2600@gmail.com (Michael Simpson)</author>
-      <guid>https://mjs2600.github.io/page/about/</guid>
-      <description>{ &#34;@context&#34;: &#34;http://schema.org&#34;, &#34;@type&#34;: &#34;Person&#34;, &#34;name&#34;: &#34;Michael Simpson&#34;, &#34;address&#34;: { &#34;@type&#34;: &#34;PostalAddress&#34;, &#34;addressCountry&#34;: &#34;USA&#34;, &#34;addressRegion&#34;: &#34;VT&#34;, &#34;addressLocality&#34;: &#34;Middlebury&#34; }, &#34;image&#34;: &#34;https://mjs2600.github.io/images/profile.png&#34;, &#34;spouse&#34;: { &#34;@type&#34;: &#34;Person&#34;, &#34;name&#34;: &#34;Mary Jane Simpson&#34;, &#34;url&#34;: &#34;http://www.middlebury.edu/academics/chem/faculty/node/539926&#34; }, &#34;jobTitle&#34;: &#34;Chief Data Scientist&#34;, &#34;alumniOf&#34;: { &#34;@type&#34;: &#34;EducationalOrganization&#34;, &#34;name&#34;: &#34;Georgia Institute of Technology&#34;, &#34;alternateName&#34;: &#34;Georgia Tech&#34;, &#34;url&#34;: &#34;https://www.gatech.edu/&#34; }, &#34;gender&#34;: &#34;http://schema.org/Male&#34;, &#34;url&#34;: &#34;http://mjs2600.github.io/&#34;, &#34;sameAs&#34; : [ &#34;https://twitter.com/mjs2600&#34;, &#34;https://mastodon.technology/web/accounts/78564&#34; ] }  I live in Middlebury, Vermont with my wife, Mary Jane, and two small children.</description>
     </item>
     
   </channel>
